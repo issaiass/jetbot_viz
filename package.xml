@@ -4,16 +4,15 @@
   <version>0.0.1</version>
   <description>Visualization configuration for Clearpath Husky</description>
 
-  <author email="rgariepy@clearpathrobotics.com">Ryan Gariepy</author>
-  <author email="mpurvis@clearpathrobotics.com">Mike Purvis</author>
+  <author email="issaiass@hotmail.com">Rangel Alvarado</author>
 
-  <maintainer email="tbaltovski@clearpathrobotics.com">Tony Baltovski</maintainer>
+  <maintainer email="issaiass@hotmail.com">Rangel Alvarado</maintainer>
 
-  <license>BSD</license>
+  <license>CCSA2.0</license>
 
-  <url type="website">http://ros.org/wiki/husky_viz</url>
-  <url type="bugtracker">https://github.com/husky/husky_desktop/issues</url>
-  <url type="repository">https://github.com/husky/husky_desktop</url>
+  <url type="website">http://daqsyspty.com/</url>
+  <url type="bugtracker">https://github.com/issaias/jetbot_viz/issues</url>
+  <url type="repository">https://github.com/issaiass/jetbot_viz</url>
 
   <buildtool_depend>catkin</buildtool_depend>
 
