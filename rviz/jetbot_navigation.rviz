@@ -104,11 +104,6 @@ Visualization Manager:
           Show Axes: false
           Show Trail: false
           Value: true
-        bno055_base:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: true
         camera_lens:
           Alpha: 1
           Show Axes: false
@@ -463,8 +458,8 @@ Visualization Manager:
       Near Clip Distance: 0.009999999776482582
       Scale: 136.17567443847656
       Target Frame: <Fixed Frame>
-      X: -1.0560704469680786
-      Y: -1.7594317197799683
+      X: -0.12473247945308685
+      Y: -0.1504727602005005
     Saved: ~
 Window Geometry:
   Displays:
